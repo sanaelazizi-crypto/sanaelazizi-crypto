@@ -1,16 +1,29 @@
-## Hi there 👋
+# Sana El Azizi
 
-<!--
-**sanaelazizi-crypto/sanaelazizi-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich gestalte Webseiten und digitale Inhalte und erweitere
+meine Kenntnisse durch eigene praktische Projekte.
 
-Here are some ideas to get you started:
+## Kenntnisse
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HTML und CSS · PHP-Grundkenntnisse · Shopify
+SEO-Grundkenntnisse · Canva · CapCut
+
+## Meine Webprojekte
+
+### SANIELYA
+Eigener Blog über Trauer, Erinnerungen und Selbstfürsorge.
+Gestaltung, technische Umsetzung und Erstellung von Inhalten.
+
+[Webseite ansehen](https://sanielya.com)
+
+### Eva Blumen
+Gestaltung einer Floristik-Landingpage zur Präsentation
+des Geschäfts und seiner Angebote.
+
+[Webseite ansehen](https://eva-blumen.de)
+## Sprachen
+
+- Arabisch: Muttersprache
+- Deutsch: C1
+- Französisch: sehr gut
+- Englisch: Konversationskenntnisse
